@@ -1,1 +1,1 @@
-# AI Training Week 1
+# AI Training - Branch A
